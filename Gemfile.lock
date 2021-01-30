@@ -158,6 +158,7 @@ GEM
     thor (1.1.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    ulid (1.2.0)
     websocket-driver (0.7.3)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -176,6 +177,7 @@ DEPENDENCIES
   rspec-rails
   spring
   tzinfo-data
+  ulid
 
 RUBY VERSION
    ruby 2.7.2p137
